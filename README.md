@@ -1,2 +1,2 @@
 # Discord-bots
-Simple Bot for discord to fetch API from public resources.
+Simple Bots for discord to fetch API from public resources.
