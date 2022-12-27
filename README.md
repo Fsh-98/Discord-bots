@@ -1,6 +1,6 @@
 ## Demonstration
 
-* Shortcut commands request inspiring messages from API, whereas emotional words in a sentence returns custom made inspiring messages.
+* Using shortcut commands request inspiring messages from API, whereas emotional words detected in a sentence returns custom made messages.
 
  <img src="./images/motivate-bot.PNG">
 
@@ -8,7 +8,7 @@
 
  <img src="./images/inspire-1.PNG">
  
-* For deleting custom messages, use the <i>$del</i> followed by the index number.
+* For deleting custom messages, use <i>$del</i> followed by the index number.
 
  <img src="./images/inspire-2.PNG">
  
