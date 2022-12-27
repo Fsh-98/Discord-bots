@@ -1,6 +1,6 @@
 ## Demonstration
 
-* Using shortcut commands request inspiring messages from API, whereas emotional words detected in a sentence returns custom made messages.
+* The shortcut command requests inspiring messages from API, whereas emotional words detected in a sentence returns custom made messages.
 
  <img src="./images/motivate-bot.PNG">
 
